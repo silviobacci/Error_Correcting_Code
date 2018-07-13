@@ -6,7 +6,7 @@ This work has been realized in University of Pisa/Scuola Superiore Sant'Anna in 
 
 ## Path and dependency
 ```
-Schedulability_Analysis_Tool_for_Hierarchical_Real_Time_EDF_and_FP_Components/
+Error_Correcting_Code/
 ├──VHDL_Code
 ├──Utilities
 ├──Report
