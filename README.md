@@ -31,18 +31,4 @@ Assignment 	-> assignment of the project
 
 The same list can be found also in the <a href="https://github.com/silviobacci/Error_Correcting_Code/graphs/contributors">contributors of this project.</a>
 
-## License and citation
-The project comes with an Apache 2 license. Of you want to use this code, you can do without limitation but you have to document the modifications and include this license. If you want to cite, please refer to:
-
-```
-@misc {
-bacci2017,
-author = "Silvio Bacci",
-title = "Error Correcting Code",
-year = 2017,
-address = "Pisa"
-}
-```
-
-
 
